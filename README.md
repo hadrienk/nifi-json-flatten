@@ -1,2 +1,3 @@
-# nifi-json-flatten
-A NiFi processor that flatten json messages
+# NiFi json flattener
+
+A NiFi processor that flatten json messages. 
